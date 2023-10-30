@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Gregorio Nuñez</h1>
 <h3 align="center">Programador Full Stack en formación.</h3>
 
-- 👨‍💻 Todos mis proyectos están disponibles en [gregorionunez.github.io](gregorionunez.github.io)
+- 👨‍💻 Todos mis proyectos están disponibles en [[gregorionunez.github.io](gregorionunez.github.io)](Mi Portafolio Digital)
 
 - 💬 Pregúntame sobre **HTML, CSS, JavaScript, Java, Python, SQL**
 
